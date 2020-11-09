@@ -1,3 +1,0 @@
-# adabool-world
-
-Personal blog
